@@ -181,7 +181,7 @@ http://localhost:8501
 Example query:
 
 ```text
-"a dog running"
+"a crowded street at night"
 ```
 
 ---
