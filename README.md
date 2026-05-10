@@ -176,7 +176,7 @@ http://localhost:8501
 
 ## 🔎 Text-to-Image Search
 
-![Project Demo](images/Screenshot 2026-05-10 204214.png)
+![Project Demo](images/Screenshot%202026-05-10%20204214.png)
 
 Example query:
 
@@ -190,7 +190,7 @@ Example query:
 
 ![Project Demo](images/dog.jpg)
 
-![Project Demo](images/Screenshot 2026-05-10 210545.png)
+![Project Demo](images/Screenshot%202026-05-10%20210545.png)
 
 ---
 
