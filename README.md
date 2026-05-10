@@ -176,7 +176,7 @@ http://localhost:8501
 
 ## 🔎 Text-to-Image Search
 
-(Add screenshot here)
+![Project Demo](images/Screenshot 2026-05-10 204214.png)
 
 Example query:
 
@@ -188,15 +188,9 @@ Example query:
 
 ## 🖼️ Image-to-Image Search
 
-(Add screenshot here)
+![Project Demo](images/dog.jpg)
 
-Upload an image to retrieve visually similar results.
-
----
-
-## ⚡ FastAPI Backend
-
-(Add screenshot of `/docs` page here)
+![Project Demo](images/Screenshot 2026-05-10 210545.png)
 
 ---
 
